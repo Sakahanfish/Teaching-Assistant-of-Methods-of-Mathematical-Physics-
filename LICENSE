@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2026 <版权持有人>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+适用范围说明（重要）
+================================================================================
+
+上述 MIT 许可适用于本项目**原创**的部分，即：
+
+  - command/cyber-wuhua.md    命令提示词
+  - notation.md               符号规范
+  - patch/附件支持补丁.md      补丁说明
+  - verify/                   校验脚本
+  - 全部 .md 文档（README、安装说明、使用说明、教材准备）
+  - LICENSE、NOTICE
+
+**不适用于** textbook/ 目录下的教材原文。该目录收录的是第三方教材内容，
+版权归各自作者与出版社所有，仅为本项目使用者在本机学习、检索之用而随附，
+不适用上述 MIT 许可。详见 textbook/NOTICE.md。
+
+如需再分发本项目，请同时阅读并遵守 textbook/NOTICE.md 中的说明。
